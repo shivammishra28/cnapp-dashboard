@@ -35,3 +35,9 @@ npm run dev
 
 Then visit: http://localhost:5173
 
+
+👤 Author
+Shivam Mishra
+📧 shivammishra.dev@gmail.com
+🔗 GitHub
+
